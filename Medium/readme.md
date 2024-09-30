@@ -1,0 +1,1 @@
+Collect problems of medium difficulty.
